@@ -9,3 +9,6 @@ Touch controls: Use the five on-screen buttons at the bottom for left, rotate, r
 Visual feedback: The game includes a ghost piece that shows where the current block will land, plus a next-piece preview, scoreboard, and subtle vibration feedback on hard drops and line clears.
 
 Pause & resume: The pause button or switching away from the page automatically pauses the game, with an overlay to continue or restart.
+
+# 🎮PLAY GAME
+### https://stmarkita-collab.github.io/TETRIS-MOBILE/
